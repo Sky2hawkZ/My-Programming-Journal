@@ -1,5 +1,11 @@
 # React Native - Notes
 
+## Building an App and Deploying it
+
+Build app: react-native init _ProjectName_ (--version X.XX.X)
+
+run app: react-native run-android
+
 ## The Rules of state
 
 - Definition of state: a plain javascript object used to record and respond to user-triggered events.
